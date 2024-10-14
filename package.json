@@ -1,0 +1,16 @@
+{
+  "name": "frizim",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Builds this profile through GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "frizim",
+  "license": "MIT",
+  "dependencies": {
+    "badge-maker": "^4.0.0",
+    "handlebars": "^4.7.8"
+  }
+}
