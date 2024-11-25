@@ -1,0 +1,78 @@
+{
+    "de": {
+        "name": "Deutsch",
+        "about_me": {
+            "title": "Über Mich",
+            "text": [
+                "Fullstack-Webentwickler",
+                "Anwendungsentwickler für Linux & Windows",
+                "Cybersecurity-Enthusiast mit großem Interesse an Security by Design und Kryptographie",
+                "Erweitere ständig mein Wissen",
+                "Weitere Interessen: Elektronik (µC), konstruierte Sprachen, Gaming, ..."
+            ]
+        },
+        "working_with": "Arbeite hauptsächlich mit: ",
+        "using_secondary": "...gelegentlich auch: ",
+        "learning": "Lerne momentan: ",
+        "tools": "Tools meiner Wahl: ",
+        "links": "Links",
+        "projects": {
+            "title": "Projekte",
+            "description": "Schaut euch gerne meine momentanen Projekte an. Ich freue mich jederzeit über Feedback, Bugreports und Pull Requests.",
+            "entries": [
+                {
+                    "name": "IronGate - Benutzer-Management-Framework",
+                    "state": "In Arbeit",
+                    "link": "irongate-rs"
+                },
+                {
+                    "name": "Everytask - Online-Kalender für Teams",
+                    "state": "Entwurfsphase"
+                },
+                {
+                    "name": "Unbenannt - Soziale Lernplattform",
+                    "state": "Entwurfsphase"
+                }
+            ]
+        },
+        "statistics": "Meine Statistiken"
+    },
+    "en": {
+        "name": "English",
+        "about_me": {
+            "title": "About Me",
+            "text": [
+                "Full-stack web developer",
+                "Linux & Windows application developer",
+                "Passionate about cybersecurity, security by design and cryptography",
+                "Constantly expanding my knowledge",
+                "Other interests: Electronics (µC), conlangs, gaming, ..."
+            ]
+        },
+        "working_with": "Primarily working with: ",
+        "using_secondary": "...and sometimes also: ",
+        "learning": "Currently learning: ",
+        "tools": "Tools of choice: ",
+        "links": "Links",
+        "projects": {
+            "title": "Projects",
+            "description": "Feel free to check out my current projects. I'm always happy about any feedback, bug reports and PRs.",
+            "entries": [
+                {
+                    "name": "IronGate - User management framework",
+                    "state": "WIP",
+                    "link": "irongate-rs"
+                },
+                {
+                    "name": "Everytask - Online calendar for teams",
+                    "state": "design phase"
+                },
+                {
+                    "name": "Unnamed - Social learning platform",
+                    "state": "design phase"
+                }
+            ]
+        },
+        "statistics": "My Statistics"
+    }
+}
