@@ -17,7 +17,7 @@
 | {{ projects.header.project }} | {{ projects.header.state }} | Link |
 | ----------------------------- | --------------------------- | ---- |
 {{#each projects.entries }}
-| {{ this.name }} | {{ this.state }} | {{#if this.repo }}![{{ this.repo }}](https://github.com/frizim/{{ this.repo }}){{/if}}
+| {{ this.name }} | {{ this.state }} | {{#if this.repo }}![{{ this.repo }}](https://github.com/frizim/{{ this.repo }}){{/if}} |
 {{/each}}
 
 ## {{ statistics }}

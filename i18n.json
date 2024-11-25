@@ -19,11 +19,15 @@
         "projects": {
             "title": "Projekte",
             "description": "Schaut euch gerne meine momentanen Projekte an. Ich freue mich jederzeit über Feedback, Bugreports und Pull Requests.",
+            "header": {
+                "project": "Name",
+                "state": "Status"
+            },
             "entries": [
                 {
                     "name": "IronGate - Benutzer-Management-Framework",
                     "state": "In Arbeit",
-                    "link": "irongate-rs"
+                    "repo": "irongate-rs"
                 },
                 {
                     "name": "Everytask - Online-Kalender für Teams",
@@ -57,11 +61,15 @@
         "projects": {
             "title": "Projects",
             "description": "Feel free to check out my current projects. I'm always happy about any feedback, bug reports and PRs.",
+            "header": {
+                "project": "Name",
+                "state": "Statehttps://github.com/frizim/irongate-rs"
+            },
             "entries": [
                 {
                     "name": "IronGate - User management framework",
                     "state": "WIP",
-                    "link": "irongate-rs"
+                    "repo": "irongate-rs"
                 },
                 {
                     "name": "Everytask - Online calendar for teams",
