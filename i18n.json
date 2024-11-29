@@ -31,7 +31,8 @@
                 },
                 {
                     "name": "Everytask - Online-Kalender für Teams",
-                    "state": "Entwurfsphase"
+                    "state": "In Arbeit",
+                    "repo": "everytask"
                 },
                 {
                     "name": "Unbenannt - Soziale Lernplattform",
@@ -73,7 +74,8 @@
                 },
                 {
                     "name": "Everytask - Online calendar for teams",
-                    "state": "design phase"
+                    "state": "WIP",
+                    "repo": "everytask"
                 },
                 {
                     "name": "Unnamed - Social learning platform",
