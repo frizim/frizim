@@ -17,7 +17,7 @@ Schaut euch gerne meine momentanen Projekte an. Ich freue mich jederzeit über F
 | Name | Status | Link |
 | ----------------------------- | --------------------------- | ---- |
 | IronGate - Benutzer-Management-Framework | In Arbeit | ![irongate-rs](https://github.com/frizim/irongate-rs) |
-| Everytask - Online-Kalender für Teams | Entwurfsphase |  |
+| Everytask - Online-Kalender für Teams | In Arbeit | ![everytask](https://github.com/frizim/everytask) |
 | Unbenannt - Soziale Lernplattform | Entwurfsphase |  |
 
 ## Meine Statistiken

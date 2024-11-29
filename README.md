@@ -17,7 +17,7 @@ Feel free to check out my current projects. I&#x27;m always happy about any feed
 | Name | State | Link |
 | ----------------------------- | --------------------------- | ---- |
 | IronGate - User management framework | WIP | ![irongate-rs](https://github.com/frizim/irongate-rs) |
-| Everytask - Online calendar for teams | design phase |  |
+| Everytask - Online calendar for teams | WIP | ![everytask](https://github.com/frizim/everytask) |
 | Unnamed - Social learning platform | design phase |  |
 
 ## My Statistics
