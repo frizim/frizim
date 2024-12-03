@@ -16,9 +16,9 @@
 Feel free to check out my current projects. I&#x27;m always happy about any feedback, bug reports and PRs.
 | Name | State | Link |
 | ----------------------------- | --------------------------- | ---- |
+| Wemorize - Web-based community learning platform | WIP | ![wemorize](https://github.com/frizim/wemorize) |
 | IronGate - User management framework | WIP | ![irongate-rs](https://github.com/frizim/irongate-rs) |
 | Everytask - Online calendar for teams | WIP | ![everytask](https://github.com/frizim/everytask) |
-| Unnamed - Social learning platform | design phase |  |
 
 ## My Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=frizim)
