@@ -25,6 +25,11 @@
             },
             "entries": [
                 {
+                    "name": "Wemorize - Webbasierte Community-Lernplattform",
+                    "state": "In Arbeit",
+                    "repo": "wemorize"
+                },
+                {
                     "name": "IronGate - Benutzer-Management-Framework",
                     "state": "In Arbeit",
                     "repo": "irongate-rs"
@@ -33,10 +38,6 @@
                     "name": "Everytask - Online-Kalender für Teams",
                     "state": "In Arbeit",
                     "repo": "everytask"
-                },
-                {
-                    "name": "Unbenannt - Soziale Lernplattform",
-                    "state": "Entwurfsphase"
                 }
             ]
         },
@@ -68,6 +69,11 @@
             },
             "entries": [
                 {
+                    "name": "Wemorize - Web-based community learning platform",
+                    "state": "WIP",
+                    "repo": "wemorize"
+                },
+                {
                     "name": "IronGate - User management framework",
                     "state": "WIP",
                     "repo": "irongate-rs"
@@ -76,10 +82,6 @@
                     "name": "Everytask - Online calendar for teams",
                     "state": "WIP",
                     "repo": "everytask"
-                },
-                {
-                    "name": "Unnamed - Social learning platform",
-                    "state": "design phase"
                 }
             ]
         },
