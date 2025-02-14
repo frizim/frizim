@@ -8,17 +8,17 @@
 - Tools of choice:  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-maven-dark.svg"><img alt="Maven" src="./assets/badge-maven.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-gradle-dark.svg"><img alt="Gradle" src="./assets/badge-gradle.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-cmake-dark.svg"><img alt="CMake" src="./assets/badge-cmake.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-vscode-dark.svg"><img alt="VS Code" src="./assets/badge-vscode.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-sonarlint-dark.svg"><img alt="SonarLint" src="./assets/badge-sonarlint.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-nixos-dark.svg"><img alt="NixOS" src="./assets/badge-nixos.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-docker-dark.svg"><img alt="Docker" src="./assets/badge-docker.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/badge-debian-dark.svg"><img alt="Debian" src="./assets/badge-debian.svg"></picture>
 - Full-stack web developer
 - Linux &amp; Windows application developer
-- Passionate about cybersecurity, security by design and cryptography
+- ~~Paranoid~~ Passionate about cybersecurity, security by design and cryptography
 - Constantly expanding my knowledge
-- Other interests: Electronics (µC), conlangs, gaming, ...
+- Other interests: Electronics (IoT, microcontrollers), conlangs, gaming, ...
 
 ## Projects
-Feel free to check out my current projects. I&#x27;m always happy about any feedback, bug reports and PRs.
+Feel free to check out my current projects. I&#x27;m always happy about your feedback, bug reports and PRs.
 | Name | State | Link |
 | ----------------------------- | --------------------------- | ---- |
 | Wemorize - Web-based community learning platform | WIP | ![wemorize](https://github.com/frizim/wemorize) |
-| IronGate - User management framework | WIP | ![irongate-rs](https://github.com/frizim/irongate-rs) |
+| IronGate - Authentication and permission management framework | WIP | ![irongate-rs](https://github.com/frizim/irongate-rs) |
 | Everytask - Online calendar for teams | WIP | ![everytask](https://github.com/frizim/everytask) |
 
-## My Statistics
+## My GitHub Stats
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=frizim)
