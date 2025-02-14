@@ -6,9 +6,9 @@
             "text": [
                 "Fullstack-Webentwickler",
                 "Anwendungsentwickler für Linux & Windows",
-                "Cybersecurity-Enthusiast mit großem Interesse an Security by Design und Kryptographie",
+                "~~Paranoid~~ Cybersecurity-Enthusiast mit großem Interesse an Security by Design und Kryptographie",
                 "Erweitere ständig mein Wissen",
-                "Weitere Interessen: Elektronik (µC), konstruierte Sprachen, Gaming, ..."
+                "Weitere Interessen: Elektronik (IoT, Mikrocontroller), konstruierte Sprachen, Gaming, ..."
             ]
         },
         "working_with": "Arbeite hauptsächlich mit: ",
@@ -18,7 +18,7 @@
         "links": "Links",
         "projects": {
             "title": "Projekte",
-            "description": "Schaut euch gerne meine momentanen Projekte an. Ich freue mich jederzeit über Feedback, Bugreports und Pull Requests.",
+            "description": "Schaut euch gerne meine momentanen Projekte an. Ich freue mich über Feedback, Bugreports und Pull Requests.",
             "header": {
                 "project": "Name",
                 "state": "Status"
@@ -30,7 +30,7 @@
                     "repo": "wemorize"
                 },
                 {
-                    "name": "IronGate - Benutzer-Management-Framework",
+                    "name": "IronGate - Authentifizierungs- und Rechteverwaltungs-Framework",
                     "state": "In Arbeit",
                     "repo": "irongate-rs"
                 },
@@ -41,7 +41,7 @@
                 }
             ]
         },
-        "statistics": "Meine Statistiken"
+        "statistics": "Meine GitHub-Statistik"
     },
     "en": {
         "name": "English",
@@ -50,9 +50,9 @@
             "text": [
                 "Full-stack web developer",
                 "Linux & Windows application developer",
-                "Passionate about cybersecurity, security by design and cryptography",
+                "~~Paranoid~~ Passionate about cybersecurity, security by design and cryptography",
                 "Constantly expanding my knowledge",
-                "Other interests: Electronics (µC), conlangs, gaming, ..."
+                "Other interests: Electronics (IoT, microcontrollers), conlangs, gaming, ..."
             ]
         },
         "working_with": "Primarily working with: ",
@@ -62,7 +62,7 @@
         "links": "Links",
         "projects": {
             "title": "Projects",
-            "description": "Feel free to check out my current projects. I'm always happy about any feedback, bug reports and PRs.",
+            "description": "Feel free to check out my current projects. I'm always happy about your feedback, bug reports and PRs.",
             "header": {
                 "project": "Name",
                 "state": "State"
@@ -74,7 +74,7 @@
                     "repo": "wemorize"
                 },
                 {
-                    "name": "IronGate - User management framework",
+                    "name": "IronGate - Authentication and permission management framework",
                     "state": "WIP",
                     "repo": "irongate-rs"
                 },
@@ -85,6 +85,6 @@
                 }
             ]
         },
-        "statistics": "My Statistics"
+        "statistics": "My GitHub Stats"
     }
 }
