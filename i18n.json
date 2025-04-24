@@ -25,19 +25,19 @@
             },
             "entries": [
                 {
-                    "name": "Wemorize - Webbasierte Community-Lernplattform",
+                    "name": "Wemorize - [TS/JS] Webbasierte Community-Lernplattform",
                     "state": "In Arbeit",
                     "repo": "wemorize"
                 },
                 {
-                    "name": "IronGate - Authentifizierungs- und Rechteverwaltungs-Framework",
-                    "state": "In Arbeit",
-                    "repo": "irongate-rs"
+                    "name": "OS-Control-Panel - [PHP] Webinterface zur Verwaltung von OpenSimulator-Instanzen",
+                    "state": "Aktiv",
+                    "repo": "os-control-panel"
                 },
                 {
-                    "name": "Everytask - Online-Kalender für Teams",
+                    "name": "IronGate - [Rust] Authentifizierungs- und Rechteverwaltungs-Framework",
                     "state": "In Arbeit",
-                    "repo": "everytask"
+                    "repo": "irongate-rs"
                 }
             ]
         },
@@ -69,19 +69,19 @@
             },
             "entries": [
                 {
-                    "name": "Wemorize - Web-based community learning platform",
+                    "name": "Wemorize - [TS/JS] Web-based community learning platform",
                     "state": "WIP",
                     "repo": "wemorize"
                 },
                 {
-                    "name": "IronGate - Authentication and permission management framework",
-                    "state": "WIP",
-                    "repo": "irongate-rs"
+                    "name": "OS-Control-Panel - [PHP] Web interface for OpenSimulator instances",
+                    "state": "Active",
+                    "repo": "os-control-panel"
                 },
                 {
-                    "name": "Everytask - Online calendar for teams",
+                    "name": "IronGate - [Rust] Authentication and permission management framework",
                     "state": "WIP",
-                    "repo": "everytask"
+                    "repo": "irongate-rs"
                 }
             ]
         },
